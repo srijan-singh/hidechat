@@ -13,8 +13,8 @@
     ],
 
     "icons": {
-        "16": "res/icon16.png",
-        "128": "res/icon128.png"
+        "16": "res/icon_16.png",
+        "128": "res/icon_128.png"
     }
   }
   
