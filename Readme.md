@@ -1,6 +1,6 @@
 # SecureChat
 
-An open source Whatsapp Extension to provide functionalities :
+An open source chromium based Whatsapp Extension to provide functionalities :
 
 - Blurring recent Messages
     - Sender's name
