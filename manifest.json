@@ -1,5 +1,5 @@
 {
-    "name": "Secure WhatsApp",
+    "name": "SecureChat",
     "version": "1.0",
     "manifest_version": 3,
     "description": "This extension hides the recent chat section on web.whatsapp.com and shows it on hover.",
@@ -14,7 +14,10 @@
 
     "icons": {
         "16": "res/icon_16.png",
-        "128": "res/icon_128.png"
+        "32": "res/icon_32.png",
+        "128": "res/icon_128.png",
+        "192": "res/icon_192.png",
+        "512": "res/icon_512.png"
     }
   }
   

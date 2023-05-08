@@ -1,4 +1,4 @@
-# Secure Whatsapp
+# SecureChat
 
 An open source Whatsapp Extension to provide functionalities :
 
